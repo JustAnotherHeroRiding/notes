@@ -87,6 +87,8 @@ You can find free sound effects on various websites. Here are a few suggestions:
 2. **Zapsplat:** Offers a wide range of sound effects. You might find suitable sounds for a successful match or an unsuccessful attempt.
     
 3. **Free Music Archive:** While primarily for music, they also have sound effects that could be useful.
+
+#### Let's try recording a major lick for success, minor lick for failure
 ### Tasks
 - play a sound when losing or winning
 - Background music
