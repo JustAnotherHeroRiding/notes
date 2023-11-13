@@ -24,10 +24,9 @@
 
 - Give feedback if it is a match #DONE 
 - Mute sounds button #DONE 
-- If no match make them red and close them
+- If no match make them red and close them #DONE 
 - could also be removed from screen
-- If it is a match end the timer quicker, else keep them open as long as before #DONE 
-- 
+- If it is a match end the timer quicker, else keep them open as long as before #DONE  
 
 ## Start Screen
 
@@ -35,7 +34,6 @@
 - Difficulties #DONE 
 - Put quit on the bottom of the container with margin top auto from the difficulties #DONE 
 - Header on start page #DONE 
-
 
 
 ## Background
@@ -82,6 +80,14 @@
 
 
 ## Sounds
+You can find free sound effects on various websites. Here are a few suggestions:
+
+1. **Freesound:** A collaborative database of Creative Commons Licensed sounds. You can search for specific sounds like "success chime" or "error buzz".
+    
+2. **Zapsplat:** Offers a wide range of sound effects. You might find suitable sounds for a successful match or an unsuccessful attempt.
+    
+3. **Free Music Archive:** While primarily for music, they also have sound effects that could be useful.
+### Tasks
 - play a sound when losing or winning
 - Background music
 - For the main menu i can play barber beats
