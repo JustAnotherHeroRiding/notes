@@ -102,9 +102,14 @@ You can find free sound effects on various websites. Here are a few suggestions:
 
 ## in game counters
 - create and style the container #DONE 
-- turns
-- correct guesses
-- misses
+- Create a GameStats class that will be used to manage the stats and updating them #DONE 
+- Create a class that will update the UI #DONE 
+- Figure out the best way to use the two new classes, perhaps create an object in the board class #DONE 
+- Update the UI once the stats are updated #DONE 
+- turns #DONE 
+- correct guesses #DONE 
+- misses #DONE 
+### Let's update also the percentage
 - accuracy percentage
 - speed drop down selector
 - show number checkbox to use numbers instead of images
