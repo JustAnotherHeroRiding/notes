@@ -93,11 +93,15 @@ You can find free sound effects on various websites. Here are a few suggestions:
 - play a sound when losing or winning
 - Background music
 - For the main menu i can play barber beats
+
+### Ui sound settings
 - make the mute music button work
-- make the mute game sounds button work 
-- Play a sound on block match
-- On opening one sound will play
-- If its a match play a positive sound, otherwise negative
+- make the mute game sounds button work  #DONE 
+
+### Matching Sounds 
+- Play a sound on block match #DONE 
+- On opening one sound will play #DONE 
+- If its a match play a positive sound, otherwise negative #DONE 
 
 
 ## in game counters
@@ -110,8 +114,9 @@ You can find free sound effects on various websites. Here are a few suggestions:
 - correct guesses #DONE 
 - misses #DONE 
 ### Let's update also the percentage
-- accuracy percentage
-- speed drop down selector
+- accuracy percentage #DONE 
+- Encapsulate the logic behind updating the counters #DONE 
+- speed drop down selector #DONE 
 - show number checkbox to use numbers instead of images
 - cancel button to go back #DONE 
 
