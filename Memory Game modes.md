@@ -118,13 +118,7 @@ You can find free sound effects on various websites. Here are a few suggestions:
 - accuracy percentage #DONE 
 - Encapsulate the logic behind updating the counters #DONE 
 - speed drop down selector #DONE 
-- show number checkbox to use numbers instead of images
 - cancel button to go back #DONE 
-
-## Slim down
-- Start with optimizing the code in start.ts
-- Slim down as much as possible in main.ts afterwards
-- Refactor the css as I am sure there is a lot of repetition now
 
 ## Bug alert
 - If i try to match two blocks and they are not a pair, and then quickly open one of the two blocks that i just tried to match they will have no image #DONE 
@@ -133,13 +127,22 @@ You can find free sound effects on various websites. Here are a few suggestions:
 ## Next steps
 - Corrected the header logo home page link #DONE 
 - Start game sound #DONE 
-- start stop in animation
+- Music is muted by default #DONE 
+- start stop in animation #DONE 
 - Trim the code down
 - improve images 
-- finish mobile friendly design
+- finish mobile friendly design #DONE 
 - compress high quality assets
 - tooltips for buttons #DONE 
 - Send components and helper functions to third file
+- show number checkbox to use numbers instead of images #DONE 
+- remove the background images and replace them with a big number
+- check if an image should be added in the logic
+#### Think about how we can replace the backgrounds and where
+
+- show the timer on the  right or left #DONE 
+- Stats can be on the other side #DONE 
+- On mobile screens keep them on bottom #DONE 
 
 
 
