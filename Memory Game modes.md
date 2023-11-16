@@ -97,6 +97,7 @@ You can find free sound effects on various websites. Here are a few suggestions:
 ### Ui sound settings
 - make the mute music button work
 - make the mute game sounds button work  #DONE 
+- Add a tooltip on hover on both buttons
 
 ### Matching Sounds 
 - Play a sound on block match #DONE 
@@ -124,6 +125,21 @@ You can find free sound effects on various websites. Here are a few suggestions:
 - Start with optimizing the code in start.ts
 - Slim down as much as possible in main.ts afterwards
 - Refactor the css as I am sure there is a lot of repetition now
+
+## Bug alert
+- If i try to match two blocks and they are not a pair, and then quickly open one of the two blocks that i just tried to match they will have no image #DONE 
+
+
+## Next steps
+- Corrected the header logo home page link #DONE 
+- Start game sound #DONE 
+- start stop in animation
+- Trim the code down
+- improve images 
+- finish mobile friendly design
+- compress high quality assets
+- tooltips for buttons #DONE 
+- Send components and helper functions to third file
 
 
 
