@@ -65,9 +65,9 @@
 - Test the initial version to see where we need media queries #DONE 
 - Mobile friendly
 - First we need to find out what it feels like on phones and see what the biggest issues are
-- avoid all side scrolling and make sure the blocks are easy to click
-- Blocks should be smaller when the screen size decreases
-- The header and it's contents should also shrink
+- avoid all side scrolling and make sure the blocks are easy to click #DONE 
+- Blocks should be smaller when the screen size decreases #DONE 
+- The header and it's contents should also shrink #DONE 
 
 ## Game Over
 - Move the timer into a separate class #DONE 
@@ -90,14 +90,14 @@ You can find free sound effects on various websites. Here are a few suggestions:
 
 #### Let's try recording a major lick for success, minor lick for failure
 ### Tasks
-- play a sound when losing or winning
-- Background music
-- For the main menu i can play barber beats
+- play a sound when losing or winning #DONE 
+- Background music #DONE 
+- For the game i can play barber beats #DONE 
 
 ### Ui sound settings
-- make the mute music button work
+- make the mute music button work #DONE 
 - make the mute game sounds button work  #DONE 
-- Add a tooltip on hover on both buttons
+- Add a tooltip on hover on both buttons #DONE 
 
 ### Matching Sounds 
 - Play a sound on block match #DONE 
@@ -136,18 +136,19 @@ You can find free sound effects on various websites. Here are a few suggestions:
 - tooltips for buttons #DONE 
 - Send components and helper functions to third file
 - show number checkbox to use numbers instead of images #DONE 
-- remove the background images and replace them with a big number
-- check if an image should be added in the logic
+
+### Number Backgrounds
+- remove the background images and replace them with a big number #DONE 
+- check if an image should be added in the logic #DONE 
 #### Think about how we can replace the backgrounds and where
+
+
+## How can the sidebar be smaller?
+
 
 - show the timer on the  right or left #DONE 
 - Stats can be on the other side #DONE 
 - On mobile screens keep them on bottom #DONE 
 
-
-
-
-
-
-
+# DONE!!!
 
