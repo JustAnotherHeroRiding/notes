@@ -158,21 +158,5 @@ You can find free sound effects on various websites. Here are a few suggestions:
 
 
 
-# Interview
-- Fundamentals of Javascript
-- declaring objects
-- functions
-- syntax
-- arrays
-- types
-- OOP in Js
-- prototypes
-- Typescript
-- algorithm exercise
-- access modifiers
-- function class or something else when given an exercise
-- html and css 
-- event listeners
-- event delegation and propagation
 
 
